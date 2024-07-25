@@ -1,0 +1,1 @@
+npx tailwindcss -i ./ex001/src/input.css -o ./ex001/build/assets/css/app.css --watch
